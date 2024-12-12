@@ -1,0 +1,8 @@
+Esto es un ejemplo de archivo de texto, en este caso estoy creando el archivo
+Esto es un ejemplo de archivo de texto, en este caso estoy creando el archivo
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum molestie nulla vitae interdum. 
+Aliquam pretium ante augue, at placerat metus sagittis ut. Cras posuere vulputate sapien ac viverra. 
+Vestibulum eu elit varius, convallis ipsum nec, lacinia odio. Etiam feugiat tellus nec enim dictum ultrices. 
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus lorem lorem, 
+ultricies quis vestibulum in, tincidunt vitae lectus. Donec tempor et mi non tincidunt. Ut sit amet finibus tellus, 
+eu egestas justo. Donec convallis enim eget est ultricies pretium.
